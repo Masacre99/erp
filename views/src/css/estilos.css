@@ -1,0 +1,52 @@
+.btn-ch {
+   
+        text-decoration: none;
+        padding: 10px;
+        font-weight: 600;
+        font-size: 15px;
+        color: #ffffff;
+        background-color: #e82e31;
+        border-radius: 6px;
+       
+      }
+ .btn-ch:hover{
+    color: #ffffff;
+    background-color: #000000;
+    text-decoration: none;
+ }
+
+
+
+ .contenedor { 
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .subcontenedor {
+    margin: 0 auto;
+  }
+
+  input{
+    border-radius: 7px !important;
+ 
+  }
+
+  .nota {
+    font-size:  1.2rem !important;
+    color: #e82e31 !important;
+    font-weight: 700;
+  }
+
+  .espacio {
+    padding-top: 26px !important;
+  }
+
+  .ejemplos{
+    font-weight: 400;
+    font-style: italic;
+    line-height: 1rem;
+    margin-left: 1.6rem;
+   
+  }
